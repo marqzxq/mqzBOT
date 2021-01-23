@@ -1,4 +1,4 @@
-### Olá eu sou o marquin
+### Visão
 
 
 
@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/ToinNetuh/ToiniuBot.git
-> cd ToiniuBot
+> git clone https://github.com/marqzxq/mqzBOT.git
+> cd mqzBOT
 > bash install.sh
 ```
 
