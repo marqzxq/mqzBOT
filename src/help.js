@@ -3,166 +3,98 @@ const help = (prefix) => {
 「 *mqz BOT* 」
 
 ◪ *informações*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador: marquin7
-  ❏ Meu insta: https://instagram.com/marquin.xz?igshid=9j5myqreillp
-  ❏ Meu contato: wa.me/5511977782073
+  ❏ prefixo: 「  *  」
 
-◪ *SOBRE*
-  │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  ❏ criador: marquin7
 
-◪ *FAZER*
-  │
-  ├─ ❏ ${prefix}sticker
-  ├─ ❏ ${prefix}stickergif
-  ├─ ❏ ${prefix}toimg
-  ├─ ❏ ${prefix}tomp3
-  ├─ ❏ ${prefix}bpink
-  ├─ ❏ ${prefix}marvellogo
-  ├─ ❏ ${prefix}snowwrite
-  ├─ ❏ ${prefix}3dtext
-  ├─ ❏ ${prefix}ninjalogo
-  ├─ ❏ ${prefix}water
-  ├─ ❏ ${prefix}firetext
-  ├─ ❏ ${prefix}logowolf
-  ├─ ❏ ${prefix}logowolf2
-  ├─ ❏ ${prefix}phlogo
-  ├─ ❏ ${prefix}glitch
-  ├─ ❏ ${prefix}neonlogo
-  ├─ ❏ ${prefix}neonlogo2
-  ├─ ❏ ${prefix}lionlogo
-  ├─ ❏ ${prefix}jokerlogo
-  ├─ ❏ ${prefix}shadow
-  ├─ ❏ ${prefix}burnpaper
-  ├─ ❏ ${prefix}coffee
-  ├─ ❏ ${prefix}lovepaper
-  ├─ ❏ ${prefix}woodblock
-  ├─ ❏ ${prefix}qowheart
-  ├─ ❏ ${prefix}mutgrass
-  ├─ ❏ ${prefix}undergocean
-  ├─ ❏ ${prefix}woodenboards
-  ├─ ❏ ${prefix}wolfmetal
-  ├─ ❏ ${prefix}metalictglow
-  ├─ ❏ ${prefix}8bit
-  ├─ ❏ ${prefix}ttp
-  ├─ ❏ ${prefix}herrypotter
-  ├─ ❏ ${prefix}pubglogo
-  └─ ❏ ${prefix}quotemaker
+  ❏ meu insta: https://instagram.com/marquin.xz?igshid=9j5myqreillp
 
-◪ *MEDIA*
-  │
-  ├─ ❏ ${prefix}trendtwit
-  ├─ ❏ ${prefix}randomkpop
-  └─ ❏ ${prefix}ytsearch
+  ❏ meu contato: wa.me/5511977782073 
 
-◪ *EDUCATION*
-  │
-  ├─ ❏ ${prefix}wiki
-  ├─ ❏ ${prefix}wikien
-  ├─ ❏ ${prefix}nulis
-  ├─ ❏ ${prefix}quotes
-  ├─ ❏ ${prefix}quotes2
-  └─ ❏ ${prefix}artinama
 
-◪ *KERANG AJAIB*
-  │
-  ├─ ❏ ${prefix}apakah
-  ├─ ❏ ${prefix}kapankah
-  ├─ ❏ ${prefix}rate
-  └─ ❏ ${prefix}bisakah
+ ◪ *FIGURINHAS*
 
-◪ *DOWNLOADER*
-  │
-  ├─ ❏ ${prefix}images
-  ├─ ❏ ${prefix}ytmp3
-  ├─ ❏ ${prefix}ytmp4
-  ├─ ❏ ${prefix}tiktok
-  └─ ❏ ${prefix}joox
-
-◪ *MEME*
-  │
-  ├─ ❏ ${prefix}meme
-  └─ ❏ ${prefix}memeindo
+  ├─ ❏ ${prefix}sticker converte foto em figurinha
+  ├─ ❏ ${prefix}stickergif - converte gif em figurinha (se for vídeo max 10 seg)
+  ├─ ❏ ${prefix}toimg converte figurinha em imagem 
+  └─ ❏ caso n chegue algo envie dnv
+  
 
 ◪ *SOM*
-  │
-  ├─ ❏ ${prefix}play
-  └─ ❏ ${prefix}tts
 
-◪ *MÚSICA*
-  │
-  ├─ ❏ ${prefix}lirik
-  └─ ❏ ${prefix}chord
+  ├─ ❏ ${prefix}play e o nome da música faz o bot baixar a musica
+  ├─ ❏ ${prefix}tts pt e a frase faz o bot gravar áudio
+  └─ ❏ caso n chegue algo envie dnv
 
-◪ *ISLAM*
-  │
-  └─ ❏ ${prefix}quran
 
-◪ *STALK*
-  │
-  ├─ ❏ ${prefix}tiktokstalk
-  └─ ❏ ${prefix}igstalk
+◪ *DOWNLOADER*
 
-◪ *WIBU*
-  │
-  ├─ ❏ ${prefix}neonime
-  ├─ ❏ ${prefix}pokemon
-  ├─ ❏ ${prefix}loli
-  ├─ ❏ ${prefix}waifu
-  ├─ ❏ ${prefix}randomanime
-  ├─ ❏ ${prefix}husbu
-  ├─ ❏ ${prefix}husbu2
-  ├─ ❏ ${prefix}wait
-  └─ ❏ ${prefix}nekonime
+  ├─ ❏ ${prefix}images (link) o bot baixa o link te envia a imagem
+  ├─ ❏ ${prefix}ytmp3 (link) o bot baixa o link e te envia em música 
+  ├─ ❏ ${prefix}ytmp4 (link) o bot baixa o link e te envia em vídeo
+  ├─ ❏ ${prefix}tiktok (link) o bot baixa o link e te envia o vídeo 
+  └─ ❏ caso n chegue algo envie dnv
 
-◪ *DIVERSÃO*
-  │
-  ├─ ❏ ${prefix}alay
-  ├─ ❏ ${prefix}gantengcek
-  ├─ ❏ ${prefix}watak
-  ├─ ❏ ${prefix}hobby
-  ├─ ❏ ${prefix}game
-  ├─ ❏ ${prefix}bucin
-  ├─ ❏ ${prefix}trust
-  ├─ ❏ ${prefix}dare
-  └─ ❏ ${prefix}simi
 
-◪ *INFORMAÇÃO*
-  │
-  ├─ ❏ ${prefix}bahasa
-  ├─ ❏ ${prefix}kodenegara
-  ├─ ❏ ${prefix}kbbi
-  ├─ ❏ ${prefix}fakta
-  ├─ ❏ ${prefix}infocuaca
-  ├─ ❏ ${prefix}infogempa
-  ├─ ❏ ${prefix}jadwaltvnow
-  └─ ❏ ${prefix}covid
+◪ *STALKEAR*
 
-◪ *DONO*
-  │
-  ├─ ❏ ${prefix}setprefix
-  ├─ ❏ ${prefix}block
-  ├─ ❏ ${prefix}bc
-  ├─ ❏ ${prefix}bcgc
-  ├─ ❏ ${prefix}clone
-  └─ ❏ ${prefix}clearall
+  ├─ ❏ ${prefix}tiktokstalk (nome do perfil)
+  ├─ ❏ ${prefix}igstalk (nome do perfil)
+  └─ ❏ caso n chegue algo envie dnv
 
-◪ *OUTROS*
-  │
-  ├─ ❏ ${prefix}send
-  ├─ ❏ ${prefix}wame
-  ├─ ❏ ${prefix}virtex
-  ├─ ❏ ${prefix}exe
-  ├─ ❏ ${prefix}qrcode
-  ├─ ❏ ${prefix}afk
-  ├─ ❏ ${prefix}timer
-  ├─ ❏ ${prefix}fml
-  └─ ❏ ${prefix}fml2
+
+◪ *ANIME*
+
+  ├─ ❏ ${prefix}neonime o bot envia uma foto de neonime aleatório
+  ├─ ❏ ${prefix}pokemon o bot envia uma foto de pokémon aleatório
+  ├─ ❏ ${prefix}loli o bot envia uma foto de loli aleatória
+  ├─ ❏ ${prefix}randomanime te da um anime aleatório
+  ├─ ❏ ${prefix}wait descobre qual anime é pela foto enviada
+  └─ ❏ caso n chegue algo envie dnv
+
+
+◪ *TEXTOS*
+
+  ├─ ❏ ${prefix}bpink (seu txt)
+  ├─ ❏ ${prefix}marvellogo (seu txt)
+  ├─ ❏ ${prefix}snowwrite (seu txt)
+  ├─ ❏ ${prefix}3dtext (seu txt)
+  ├─ ❏ ${prefix}ninjalogo (seu txt)
+  ├─ ❏ ${prefix}water (seu txt)
+  ├─ ❏ ${prefix}firetext (seu txt) 
+  ├─ ❏ ${prefix}logowolf (seu txt)
+  ├─ ❏ ${prefix}logowolf2 (seu txt)
+  ├─ ❏ ${prefix}phlogo (seu txt)
+  ├─ ❏ ${prefix}glitch (seu txt)
+  ├─ ❏ ${prefix}neonlogo (seu txt)
+  ├─ ❏ ${prefix}neonlogo2 (seu txt)
+  ├─ ❏ ${prefix}lionlogo (seu txt)
+  ├─ ❏ ${prefix}jokerlogo (seu txt)
+  ├─ ❏ ${prefix}shadow (seu txt)
+  ├─ ❏ ${prefix}burnpaper (seu txt)
+  ├─ ❏ ${prefix}coffee (seu txt)
+  ├─ ❏ ${prefix}lovepaper (seu txt) 
+  ├─ ❏ ${prefix}woodblock (seu txt) 
+  ├─ ❏ ${prefix}qowheart (seu txt) 
+  ├─ ❏ ${prefix}mutgrass (seu txt)
+  ├─ ❏ ${prefix}undergocean (seu txt)
+  ├─ ❏ ${prefix}woodenboards (seu txt)
+  ├─ ❏ ${prefix}wolfmetal (seu txt)
+  ├─ ❏ ${prefix}metalictglow (seu txt)
+  ├─ ❏ ${prefix}8bit (seu txt)
+  ├─ ❏ ${prefix}ttp (seu txt)
+  ├─ ❏ ${prefix}herrypotter (seu txt)
+  ├─ ❏ ${prefix}pubglogo (seu txt)
+  └─ ❏ caso n chegue algo envie dnv
+
+𝗦𝗨𝗣𝗢𝗥𝗧𝗘 ➣  wa.me/5511977782073
+
+ㅤㅤㅤㅤ║▌│█║▌│ █║▌│█│║▌║
+ㅤㅤㅤㅤ║▌│█║▌│ █║▌│█│║▌║
+
+ㅤㅤCopyright © 𝐌𝐀𝐑𝐐𝐔𝐈𝐍𝐙𝐙 愛 2021
+
+
 `
 }
 
